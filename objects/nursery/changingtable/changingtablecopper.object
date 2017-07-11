@@ -1,0 +1,31 @@
+{
+	"objectName" : "changingtablecopper",
+	"rarity" : "Common",
+	"category" : "furniture",
+	"price" : 100,
+	"printable" : true,
+	"description" : "A changing table made of copper, equipped with talcum powder, baby-safe wet wipes, and as many spare diapers anyone could need.",
+	"shortdescription" : "Copper Changing Table",
+	"race" : "generic",
+	
+	"inventoryIcon" : "changingtablecoppericon.png",
+	"orientations" : [
+    {
+      "image" : "changingtablecopper.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "changingtablecopper.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+    ]
+}

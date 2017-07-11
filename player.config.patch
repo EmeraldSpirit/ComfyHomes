@@ -1,0 +1,10 @@
+[
+	{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value": {"item": "cribblue"} },
+	{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value": {"item": "cribpink"} },
+	{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value": {"item": "cribwood"} },
+	{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value": {"item": "cribcopper"} },
+	{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value": {"item": "changingtableblue"} },
+	{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value": {"item": "changingtablepink"} },
+	{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value": {"item": "changingtablewood"} },
+	{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value": {"item": "changingtablecopper"} }
+]

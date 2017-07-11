@@ -1,0 +1,31 @@
+{
+	"objectName" : "changingtableblue",
+	"rarity" : "Common",
+	"category" : "furniture",
+	"price" : 100,
+	"printable" : true,
+	"description" : "A blue-painted changing table, equipped with talcum powder, baby-safe wet wipes, and as many spare diapers anyone could need.",
+	"shortdescription" : "Blue Changing Table",
+	"race" : "generic",
+	
+	"inventoryIcon" : "changingtableblueicon.png",
+	"orientations" : [
+    {
+      "image" : "changingtableblue.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "changingtableblue.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 10 },
+    { "item" : "fabric", "count" : 5 },
+	{ "item" : "pinkdye", "count" : 1}
+  ],
+  "output" : {
+    "item" : "cribpink",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

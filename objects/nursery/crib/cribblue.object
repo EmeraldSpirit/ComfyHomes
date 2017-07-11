@@ -1,0 +1,31 @@
+{
+	"objectName" : "cribblue",
+	"rarity" : "Common",
+	"category" : "furniture",
+	"price" : 100,
+	"printable" : true,
+	"description" : "A cute blue crib. A soft, safe bed for a baby.",
+	"shortdescription" : "Blue Crib",
+	"race" : "generic",
+	
+	"inventoryIcon" : "cribblueicon.png",
+	"orientations" : [
+    {
+      "image" : "cribblue.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "cribblue.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+    ]
+}

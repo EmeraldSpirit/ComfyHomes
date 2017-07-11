@@ -1,0 +1,31 @@
+{
+	"objectName" : "cribwood",
+	"rarity" : "Common",
+	"category" : "furniture",
+	"price" : 100,
+	"printable" : true,
+	"description" : "A cute wooden crib. A soft, safe bed for a baby.",
+	"shortdescription" : "Wood Crib",
+	"race" : "generic",
+	
+	"inventoryIcon" : "cribwoodicon.png",
+	"orientations" : [
+    {
+      "image" : "cribwood.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "cribwood.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+    ]
+}

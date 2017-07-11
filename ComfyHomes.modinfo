@@ -1,0 +1,11 @@
+{
+  "name" : "Comfy Homes",
+  "version" : "Alpha",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+    "author" : "ES, Nitro, IkkyKrrk",
+    "description" : "More props to make Comfier Homes for Starbound!",
+    "support_url" : "https://github.com/EmeraldSpirit/ComfyHomes"
+  }
+}

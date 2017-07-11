@@ -1,0 +1,31 @@
+{
+	"objectName" : "cribcopper",
+	"rarity" : "Common",
+	"category" : "furniture",
+	"price" : 100,
+	"printable" : true,
+	"description" : "A cute copper crib. A soft, safe bed for a baby.",
+	"shortdescription" : "Copper Crib",
+	"race" : "generic",
+	
+	"inventoryIcon" : "cribcoppericon.png",
+	"orientations" : [
+    {
+      "image" : "cribcopper.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "cribcopper.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+    ]
+}
